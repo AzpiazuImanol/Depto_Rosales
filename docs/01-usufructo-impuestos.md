@@ -66,11 +66,19 @@ Puntos clave (verificados en fuentes, a confirmar con contador):
 
 ---
 
-## 4. Recomendación preliminar (a validar con el contador)
+## 4. Decisión: vamos por la Estructura A (donaciones) — a validar con el contador
 
-**Con el Decreto 406/2026 sobre la mesa, la Estructura A parece la que mejor cumple tu objetivo:** carga mínima a mamá (renta exenta de Ganancias), costo de entrada cero y máxima simplicidad. **El usufructo formal (B) probablemente NO haga falta** para el objetivo impositivo, y encima agrega costo y complejidad por mi condición de no residente.
+✅ **VÍA ELEGIDA: Estructura A.** Mamá queda como **propietaria y única locadora**; yo **NO figuro en el contrato**. Ella cobra la renta (exenta de Ganancias por el 406/2026 si es casa-habitación) y me hace **donaciones/transferencias como sostén del MBA**.
 
-**El usufructo solo se justificaría si** el contador/escribano ven un beneficio concreto que hoy no veo (por ejemplo, darte un **derecho legal propio** sobre la renta en vez de depender de la transferencia de mamá, o algún tema sucesorio/patrimonial más amplio). Eso es una conversación a tener, no un descarte.
+**Por qué descartamos el usufructo (B):** no tiene sentido pagar escritura + ITGB + sellos (~3–5%) para hacerme usufructuario, cuando la Estructura A logra el mismo resultado con **costo de entrada cero, más simple, y sin activar mi condición de no residente**. El usufructo solo se reabriría si el contador/escribano ven un beneficio concreto (p. ej. un tema sucesorio más amplio).
+
+**Doblemente limpio:**
+- **Argentina:** la renta queda en cabeza de mamá y **exenta** (no se me suma a mí como no residente).
+- **Reino Unido:** un **regalo de un padre no es "income"** → en general **no tributa** en UK (los gifts no se gravan en quien los recibe). Más prolijo incluso que recibir la renta yo bajo FIG.
+
+**Salvedades a confirmar con el contador (no frenan la decisión):**
+1. **ITGB de PBA sobre donaciones de dinero:** puede alcanzar montos por encima de ciertos mínimos (entre padres e hijos el mínimo no imponible es más alto). Como me voy del país y el amoblado suele cobrarse en USD, en la práctica suele ser un no-tema — pero confirmar si conviene documentar algo.
+2. **El contrato debe ser "vivienda permanente", no temporario** → condición para la exención. Como no soy parte del contrato, lo pactan mamá/Franco con el inquilino (ver doc 02).
 
 ---
 
@@ -107,10 +115,11 @@ Puntos clave (verificados en fuentes, a confirmar con contador):
 ---
 
 ### Estado / próximos pasos
-- [ ] Pedir turno con **escribano** (constitución/costos + pendientes de dominio).
-- [ ] Pedir turno con **contador** (exención 406/2026 + estructura A vs B + IIBB).
-- [ ] Consulta con **asesor fiscal UK** sobre régimen FIG.
-- [ ] Volcar acá las respuestas y cerrar la decisión A vs B.
+- [x] **Decisión A vs B: elegida la A (donaciones), se descarta el usufructo.**
+- [ ] Confirmar con **contador**: exención 406/2026 aplicada al amoblado + ITGB sobre donaciones + IIBB.
+- [ ] **Escribano:** ya no para usufructo, sí para los **pendientes de dominio** (titularidad cochera/baulera, reglamento, libre deuda) y, si hace falta, el **poder de administración** (ver doc 03).
+- [ ] Consulta con **asesor fiscal UK** sobre régimen FIG / tratamiento de los gifts.
+- [ ] Volcar acá las respuestas del contador.
 
 ---
 

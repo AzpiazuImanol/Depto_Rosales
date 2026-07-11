@@ -71,11 +71,11 @@
 
 ## 4. Plan de ejecución — checklist
 
-### 🔴 A. Legal / Usufructo / Impuestos (LO MÁS URGENTE — tiene plazos antes del 25/08) → [doc 01](docs/01-usufructo-impuestos.md)
-- [ ] Consultar **contador**: ¿el amoblado califica como casa-habitación para la **exención 406/2026**? IIBB, y **si conviene o no el usufructo** dado que me hago no residente.
-- [ ] Consultar **escribano**: costo real de constituir usufructo en PBA + pendientes (**estado de dominio, titularidad de cochera/baulera, reglamento**, ABL).
-- [ ] Consulta con **asesor fiscal UK** (régimen FIG: 4 años de exención sobre renta del exterior para recién llegados).
-- **Corrección conceptual:** mamá hoy es **propietaria plena**, no "usufructuaria". El usufructo a mi favor hay que *constituirlo* y **tiene costo** — con la exención 406/2026 puede que **no haga falta**. Ver doc 01.
+### 🔴 A. Legal / Impuestos (LO MÁS URGENTE — tiene plazos antes del 25/08) → [doc 01](docs/01-usufructo-impuestos.md)
+- ✅ **Decidido: NO se constituye usufructo.** Mamá queda propietaria/locadora y me hace **donaciones** como sostén del MBA (Estructura A). Más barato, simple y limpio (renta exenta en AR por 406/2026; gift no gravado en UK).
+- [ ] Confirmar con **contador**: exención 406/2026 sobre el amoblado + ITGB sobre donaciones + IIBB.
+- [ ] **Escribano** (ya no para usufructo): pendientes de dominio (**titularidad cochera/baulera, reglamento, libre deuda**) + eventual **poder de administración**.
+- [ ] Consulta con **asesor fiscal UK** (régimen FIG / tratamiento de los gifts).
 
 ### 🟠 B. Precio y posicionamiento
 - [x] Definir alquiler de salida: **US$ 3.100/mes amoblado** (all-in ~3.550).
