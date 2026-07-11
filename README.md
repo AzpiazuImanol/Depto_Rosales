@@ -5,6 +5,13 @@
 
 **Última actualización:** 11-jul-2026
 
+### 📂 Documentos de trabajo
+- **[01 · Usufructo, impuestos y cómo llega la plata al hijo](docs/01-usufructo-impuestos.md)**
+- **[02 · Contrato de alquiler amoblado + inventario](docs/02-contrato-inventario.md)**
+- **[03 · Administración del depto a distancia](docs/03-administracion-a-distancia.md)**
+
+> 🟢 **Novedad clave (jul-2026):** el **Decreto 406/2026** exime de Ganancias al alquiler de **casa-habitación** (incluso amoblado) para personas humanas → si mamá alquila como **vivienda permanente**, su Ganancias sobre la renta ≈ 0, **sin necesidad de constituir usufructo**. NO aplica a alquiler temporario/turístico. Detalle en el doc 01.
+
 ---
 
 ## 0. Situación en una línea
@@ -64,10 +71,11 @@
 
 ## 4. Plan de ejecución — checklist
 
-### 🔴 A. Legal / Usufructo (LO MÁS URGENTE — tiene plazos antes del 25/08)
-- [ ] Consultar **escribano** para constituir el usufructo a mi favor (escritura). Sin esto, la renta es legalmente ingreso de mi madre.
-- [ ] Consultar **contador**: quién declara la renta, Ganancias, Bienes Personales, y efecto de mi **residencia fiscal** al irme del país.
-- [ ] Verificar con escribanía (pendientes que marca Franco): **estado de dominio, titularidad de cochera/baulera, reglamento de copropiedad**, boletas de ABL.
+### 🔴 A. Legal / Usufructo / Impuestos (LO MÁS URGENTE — tiene plazos antes del 25/08) → [doc 01](docs/01-usufructo-impuestos.md)
+- [ ] Consultar **contador**: ¿el amoblado califica como casa-habitación para la **exención 406/2026**? IIBB, y **si conviene o no el usufructo** dado que me hago no residente.
+- [ ] Consultar **escribano**: costo real de constituir usufructo en PBA + pendientes (**estado de dominio, titularidad de cochera/baulera, reglamento**, ABL).
+- [ ] Consulta con **asesor fiscal UK** (régimen FIG: 4 años de exención sobre renta del exterior para recién llegados).
+- **Corrección conceptual:** mamá hoy es **propietaria plena**, no "usufructuaria". El usufructo a mi favor hay que *constituirlo* y **tiene costo** — con la exención 406/2026 puede que **no haga falta**. Ver doc 01.
 
 ### 🟠 B. Precio y posicionamiento
 - [x] Definir alquiler de salida: **US$ 3.100/mes amoblado** (all-in ~3.550).
