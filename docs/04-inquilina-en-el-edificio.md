@@ -8,6 +8,7 @@
 - El del piso 15 es **más grande que el mío** (tiene cuarto de servicio que no usan) y **no está en el mejor estado**.
 - Conocida de mi cuñada y de mi mamá (de cuando vivíamos ahí). **Seria, profesional.**
 - Muy interesada, quiere verlo y saber precio. **Viene hoy.**
+- ✅ **Confirmado por ella misma (14-jul):** el piso 15 "no está en buenas condiciones" — coincide exactamente con lo que marcaba Franco en el informe de venta sobre unidades del complejo. Es una confirmación de primera mano (quien vive ahí) del diagnóstico de Franco → **más leverage**: mi unidad está objetivamente mejor que la alternativa que ella conoce mejor que nadie.
 
 ## Por qué es buena oportunidad
 - **Confianza** (referida, conocida de la familia, en el edificio hace 25 años).
@@ -46,14 +47,26 @@ Benchmark: Toyota buscaba 4 amb en el edificio en marzo. Paquete **ARS 4.750.000
 - Mi meta declarada (2.500–2.800 en mano, expensas aparte) → se cumple holgada.
 
 ## ⚠️ El punto crítico: muebles
+
+> **Corrección (14-jul):** mi primera lectura de "amoblado ≈ vacío, casi no hay diferencia de precio" fue una simplificación incorrecta — venía de una línea genérica del informe de mercado, no de la tabla específica de esta unidad. **La tabla propia de Franco (sección 06, "El alquiler sugerido") muestra una brecha real:**
+
+| Escenario (tabla de Franco para ESTA unidad) | US$/mes | All-in aprox. |
+|---|---|---|
+| Techo competitivo | 3.200 | ≈3.650 |
+| **Sugerido (amoblado)** | **3.100** | ≈3.550 |
+| Colocación rápida | 2.950 | ≈3.400 |
+| **Sin amoblar (referencia)** | **≈2.800** | ≈3.250 |
+
+**Brecha real amoblado vs. sin amoblar: ~US$ 300/mes (≈10%).** No es cero, pero tampoco es un salto grande.
+
 Ella tiene sus propios muebles → mi "amoblado a nuevo" le vale poco. Des-amueblar = guardar muebles nuevos estando afuera (costo/riesgo).
 
-| Escenario | Para mí | Precio |
+| Escenario | Para mí | Precio ancla |
 |---|---|---|
-| **A · Amoblado (usa lo mío)** | ✅ Ideal, sin guardar nada | sostengo ~2.800–3.000 |
-| **B · Sin amoblar (trae lo suyo)** | ❌ guardar/mudar mis muebles | Franco: casi no baja (amoblado ≈ vacío) |
+| **A · Amoblado (usa lo mío)** | ✅ Ideal, sin guardar nada | ~3.000–3.100 |
+| **B · Sin amoblar (trae lo suyo)** | ❌ guardar/mudar mis muebles, pero evito el desgaste de "prestar" muebles nuevos a una familia con adolescentes | **~2.800** (número propio de Franco, no una concesión mía) |
 
-**Dato Franco:** en este segmento amoblado ≈ vacío en precio. Si empuja "sacá muebles y cobrame menos" → respuesta: *"el valor es casi el mismo; si los saco los tengo que guardar, así que no baja"*. **Preferencia: dejarlo amoblado.**
+**Punto clave para la negociación:** el escenario "sin amoblar" a 2.800 **coincide casi exacto con mi objetivo de cierre ya fijado** (2.800 + expensas). O sea, **el resultado esperado no cambia mucho** entre amoblado o no — lo que cambia es el argumento: si ella pide sin amoblar, el ancla correcta a defender es **2.800, no menos** (es el propio número de Franco, no una rebaja adicional). Si pide amoblado, subo a **3.000–3.100**. En ningún caso hace falta "regalar" el descuento por sacar los muebles.
 
 ## Checklist para la visita
 **Preguntarle:**
