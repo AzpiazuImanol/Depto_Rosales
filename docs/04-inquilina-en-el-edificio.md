@@ -1,6 +1,21 @@
 # 04 · Inquilina candidata del propio edificio (piso 15)
 
 > Oportunidad concreta y con timing casi perfecto. Prospecto directo, sin publicar.
+> **Estado: visita ya realizada (14-jul). En plan de re-contacto para negociar cierre.**
+
+## 🔴 Actualización 14-jul — resultado de la visita con Cinthia
+
+**Lo nuevo que cambia el análisis:**
+- Cinthia paga hoy **ARS 3.200.000/mes (≈ USD 2.100–2.200)** por el piso 15 — una unidad **más grande pero en peor estado**. Ella misma mandó a tasar y **considera que está pagando de más**.
+- Motivo de la mudanza: tiene un **depto propio en el piso 11** sin usar; alquila el 15 porque a sus 2 hijos (15 y 21) les quedaba chico. Ahora quiere **achicarse**.
+- Su hija va al colegio de al lado (amiga de mi sobrina) y le pidió a Cinthia **seguir viviendo en la zona hasta terminar el colegio** → por eso busca puntualmente un **contrato de 2 años**.
+- **El plazo de 2 años me viene bien a mí también**: no sé si vuelvo del MBA en 2, 3 o 4 años — un contrato de 2 años con alguien confiable elimina la incertidumbre de administrar a distancia justo en el tramo más difícil.
+- **Muebles, resuelto sin fricción:** Cinthia elige en persona qué piezas le sirven; el resto lo guardan mi hermana/cuñada, recién mudadas a casas grandes con espacio libre de sobra. Esto **elimina el costo/riesgo de guardar muebles** que habíamos identificado como el punto débil de ir "sin amoblar".
+- Reunión con mis padres + Franco: **nueva banda de valuación consensuada: USD 310.000–350.000** (antes solo se manejaba ~310k).
+
+**Plan acordado:**
+1. **Esperar 48–72 h** — Franco tantea si Toyota (el comparable corporativo de marzo) sigue realmente interesado, y se deja "marinar" un poco la disparidad de precio con Cinthia.
+2. Recontactarla en unos días con una propuesta concreta (ver estrategia de negociación abajo).
 
 ## Quién es
 - Madre de una compañera de mi sobrina; **vive hace 25 años en el edificio**.
@@ -40,52 +55,61 @@ Benchmark: Toyota buscaba 4 amb en el edificio en marzo. Paquete **ARS 4.750.000
 
 **Franja: ~USD 2.700–3.100 + expensas.**
 
-## Precio con ELLA
-- **Ancla (lo que digo):** tasación profesional = **USD 3.000 amoblado + expensas**.
-- **Objetivo de cierre:** **USD 2.800 + expensas** (prima de confianza + cero fricción + timing).
-- **Piso cómodo:** ~**USD 2.600 en mano**.
-- Mi meta declarada (2.500–2.800 en mano, expensas aparte) → se cumple holgada.
+## Estrategia de negociación — recontacto (próximos días)
 
-## ⚠️ El punto crítico: muebles
+**Estructura: Ancla → Oferta → Piso**
 
-> **Corrección (14-jul):** mi primera lectura de "amoblado ≈ vacío, casi no hay diferencia de precio" fue una simplificación incorrecta — venía de una línea genérica del informe de mercado, no de la tabla específica de esta unidad. **La tabla propia de Franco (sección 06, "El alquiler sugerido") muestra una brecha real:**
-
-| Escenario (tabla de Franco para ESTA unidad) | US$/mes | All-in aprox. |
+| | Número | Rol |
 |---|---|---|
-| Techo competitivo | 3.200 | ≈3.650 |
-| **Sugerido (amoblado)** | **3.100** | ≈3.550 |
-| Colocación rápida | 2.950 | ≈3.400 |
-| **Sin amoblar (referencia)** | **≈2.800** | ≈3.250 |
+| **Ancla** | USD 2.800 | Tasación profesional de Franco (el "sin amoblar" de su propia tabla, no invento) |
+| **Mi oferta** | **USD 2.500** | Lo que propongo activamente — ya presentado como concesión, no como apertura de regateo |
+| **Mi piso real** | **USD 2.400** | Límite si empuja más — se cede solo si hace falta |
 
-**Brecha real amoblado vs. sin amoblar: ~US$ 300/mes (≈10%).** No es cero, pero tampoco es un salto grande.
+**Por qué NO abrir directo en 2.400:** ya le mencioné "3.000" en la primera visita. Si ahora ofrezco 2.400 de entrada, le regalo un ancla nueva mucho más baja y sin margen — cualquier contraparte empuja igual, así que podría terminar cerrando por debajo de mi piso. Mejor reafirmar el 2.800 (dato objetivo de Franco) y ofrecer 2.500 como *mi* propuesta concreta, dejando 2.400 sin decir en voz alta.
 
-Ella tiene sus propios muebles → mi "amoblado a nuevo" le vale poco. Des-amueblar = guardar muebles nuevos estando afuera (costo/riesgo).
+**Guion sugerido:**
+1. Reafirmar el número objetivo: *"la tasación profesional, incluso en el escenario sin amueblar, da 2.800."*
+2. Reconocer la brecha: *"pasar de ahí a 2.100–2.200 es mucho para mí — esto es literalmente lo que voy a usar para vivir allá durante el MBA."*
+3. Ofrecer el número real: **2.500**, marcándolo como el esfuerzo que hago por la confianza y el vínculo.
+4. Argumento de valor (usar su propia info a favor): *"vos misma sentís que hoy pagás de más por algo grande pero no tan cuidado — lo mío es más chico, pero es otra categoría de estado."*
+5. Si empuja, ceder hasta 2.400 como límite, remarcando que es el mínimo por el objetivo (MBA).
 
-| Escenario | Para mí | Precio ancla |
-|---|---|---|
-| **A · Amoblado (usa lo mío)** | ✅ Ideal, sin guardar nada | ~3.000–3.100 |
-| **B · Sin amoblar (trae lo suyo)** | ❌ guardar/mudar mis muebles, pero evito el desgaste de "prestar" muebles nuevos a una familia con adolescentes | **~2.800** (número propio de Franco, no una concesión mía) |
+**Por qué el contrato a 2 años es una ventaja, no una concesión:** no sé si vuelvo en 2, 3 o 4 años — un inquilino confiable atado a 2 años me saca la incertidumbre de administrar a distancia en el tramo más difícil (menos vacancia, cero comisión de colocación, cero riesgo de mal inquilino). Es una razón legítima para aceptar un precio bajo el "ask" nominal de mercado, no solo algo sentimental.
 
-**Punto clave para la negociación:** el escenario "sin amoblar" a 2.800 **coincide casi exacto con mi objetivo de cierre ya fijado** (2.800 + expensas). O sea, **el resultado esperado no cambia mucho** entre amoblado o no — lo que cambia es el argumento: si ella pide sin amoblar, el ancla correcta a defender es **2.800, no menos** (es el propio número de Franco, no una rebaja adicional). Si pide amoblado, subo a **3.000–3.100**. En ningún caso hace falta "regalar" el descuento por sacar los muebles.
+⚠️ **Ajuste técnico a proponerle a Franco:** con USD fijo a 2 años sin cláusula, el valor real se licua. Sumar un **ajuste anual chico** (3–5% al cumplir el año) — no el trimestral por IPC (eso es para contratos en pesos).
 
-## Checklist para la visita
-**Preguntarle:**
-1. ¿Amoblado o sin amoblar? (definir ESTO primero)
-2. Plazo (¿2-3 años? largo = ideal)
-3. Fecha de inicio (su vencimiento fin ago / mi salida 25/08)
-4. Ocupantes (ella + 2 adolescentes), mascotas
+## ROI con la nueva banda de valuación (USD 310k–350k)
 
-**Dejar claro yo:**
-5. Moneda USD; expensas + ABL + servicios a cargo del inquilino
-6. Depósito (2 meses si amoblado; negociable)
-7. Garantía formal (recibo sueldo / propietaria / caución) aunque haya confianza
-8. Ajuste: si USD, anual chico (IPC trimestral es para pesos)
-9. Contrato "vivienda permanente" → exención Ganancias mamá
-10. Pago estando afuera: a cuenta de mamá / administrador
+| Alquiler/mes | Anual | ROI @310k | ROI @350k |
+|---|---|---|---|
+| 2.100 (lo que paga hoy, aprox.) | 25.200 | 8,1% | 7,2% |
+| 2.200 | 26.400 | 8,5% | 7,5% |
+| **2.400 (mi piso)** | 28.800 | **9,3%** | **8,2%** |
+| **2.500 (mi oferta)** | 30.000 | **9,7%** | **8,6%** |
+| 2.800 (Franco, sin amoblar / ancla) | 33.600 | 10,8% | 9,6% |
+| 3.100 (Franco, amoblado) | 37.200 | 12,0% | 10,6% |
 
-**Encuadre:** mostrar el depto (que se enamore del estado/muebles), número al final (tirar 3.000), **no cerrar hoy** ("lo pienso y lo charlamos") para consultar con mamá/Franco.
+Incluso en el escenario más conservador (2.400 @ 350k), el ROI (**8,2%**) sigue muy por encima del residencial tradicional (4–6%) y por encima de lo que hoy rinde el piso 15 a su dueño actual con Cinthia adentro (7,2–8,1%).
 
-**Extra:** al ser directo, me ahorro/reduzco comisión de Franco. Puedo pedirle igual el **contrato + inventario** por un fee menor.
+## Muebles — ya resuelto (14-jul)
+
+La tabla de Franco para esta unidad marca una brecha real entre amoblado y sin amoblar (≈US$ 300/mes, ~10%):
+
+| Escenario (tabla de Franco) | US$/mes |
+|---|---|
+| Sugerido (amoblado) | 3.100 |
+| Sin amoblar (referencia) | ≈2.800 |
+
+Antes esto era una tensión (guardar muebles nuevos a mi costo estando afuera). **Ya no lo es:** Cinthia va a elegir en persona qué piezas le sirven, y **el resto lo guardan mi hermana/cuñada** (casas grandes, recién mudadas, espacio libre de sobra) — sin costo ni logística de mi parte. Esto me da libertad total para negociar el "amoblado a medida" sin trade-off.
+
+## Checklist — próximos pasos
+
+- [ ] **Esperar 48–72 h**: Franco chequea si Toyota sigue interesado (dato real de mercado, no solo referencia de marzo) — y se deja marinar la disparidad de precio.
+- [ ] **Recontactar a Cinthia** con el guion de negociación (ancla 2.800 → oferta 2.500 → piso 2.400).
+- [ ] Definir con ella: plazo exacto (2 años), fecha de inicio (fin ago / mi salida 25/08), ocupantes, mascotas.
+- [ ] Coordinar la visita de selección de muebles (qué se queda, qué va a lo de mi hermana/cuñada).
+- [ ] Dejar claro: moneda USD, expensas+ABL+servicios a cargo de ella, depósito, garantía formal (aunque haya confianza), **ajuste anual 3–5%** (no trimestral IPC), contrato como "vivienda permanente" (exención Ganancias mamá), circuito de pago estando yo afuera.
+- [ ] Al ser trato directo, evaluar con Franco un **fee reducido** solo por armar contrato + inventario (sin comisión de colocación completa).
 
 ---
 **Fuentes:** IPC INDEC ([abril](https://www.indec.gob.ar/uploads/informesdeprensa/ipc_05_2680B692D2F5.pdf), [mayo](https://www.indec.gob.ar/uploads/informesdeprensa/ipc_06_26C132AEE4E9.pdf)) · dólar BNA jul-2026 (~$1.490) · tasaciones Gringo Estate.
