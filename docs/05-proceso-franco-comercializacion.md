@@ -1,17 +1,19 @@
 # 05 · Proceso con Franco — riesgo Cinthia, publicación y honorarios
 
-> Fuente: 3 audios de voz de Franco (14-jul-2026), transcriptos vía WhatsApp + MacWhisper (se complementan; hay partes con huecos por calidad de audio).
+> Fuente: 3 audios de voz de Franco (14-jul-2026), transcriptos vía WhatsApp + MacWhisper (se complementan; hay partes con huecos por calidad de audio). El audio 1 es la respuesta de Franco a un dato que yo le compartí sobre Cinthia (ver corrección abajo), no un hallazgo suyo.
 
 ---
 
-## Audio 1 — Alerta sobre Cinthia: posible atraso de pago
+## Audio 1 — Cinthia: posible atraso de pago (dato mío, no de Franco)
 
-- Franco marca que Cinthia **tuvo algún atraso de pago** en algún momento (no aclara si en el piso 15 actual u otro antecedente que conoce por su red).
-- **No amerita descartarla al 100%**, pero sí tomar recaudos:
+> ⚠️ **Corrección (14-jul):** el dato del atraso de pago **NO salió de Franco ni de su red inmobiliaria** — se lo comenté yo a él, a partir de lo que charlé con amigos de la familia y gente cercana al edificio. Franco responde con su consejo profesional sobre cómo manejar esa información, no la origina.
+
+- Yo le cuento a Franco que **Cinthia tuvo algún atraso de pago** en algún momento (según lo charlado con amigos de la familia / gente cercana, no confirmado formalmente).
+- Su consejo: **No amerita descartarla al 100%**, pero sí tomar recaudos:
   - **Pago estricto**, día 1 al 5 del mes.
   - **2 meses de depósito.**
   - Preferible: **seguro de caución** en vez de (o sumado a) una garantía propietaria — cuesta **~6% del total del contrato**, lo paga el inquilino; si hay falta de pago, **paga directamente la aseguradora**. Franco: "mucho mejor que una garantía propietaria."
-- Franco tasa el escenario de impago como **"medio improbable"** — lo marca como precaución razonable, no como bandera roja fuerte, pero quiso avisar antes de avanzar.
+- Franco tasa el escenario de impago como **"medio improbable"** — lo trata como precaución razonable en base al dato que le di, no como bandera roja fuerte por conocimiento propio de ella.
 
 ## Audio 2 — Estrategia de comercialización / publicación
 
@@ -35,7 +37,7 @@
 
 ## Mi análisis
 
-1. **El alerta de Cinthia no cambia la decisión, cambia las condiciones — a mi favor.** No amerita descartarla, pero da una razón objetiva y no incómoda para pedir el seguro de caución sin que suene a desconfianza personal: *"para no mezclar la plata con la relación, prefiero formalizarlo con un seguro de caución — así ninguno depende de la confianza personal si algo se complica."*
+1. **El dato del atraso de pago es mío (de mi círculo cercano), no un hallazgo de Franco — pero su consejo aplica igual.** No amerita descartarla, y me da una razón objetiva y no incómoda para pedir el seguro de caución sin que suene a desconfianza personal: *"para no mezclar la plata con la relación, prefiero formalizarlo con un seguro de caución — así ninguno depende de la confianza personal si algo se complica."* Como el dato no está confirmado formalmente (es un comentario de gente cercana, no un antecedente verificado), conviene tratarlo como precaución razonable y no mencionárselo a ella directamente — el seguro de caución se pide como estándar, no como reacción a un rumor puntual.
 
 2. **Ojo con el costo del seguro de caución para ELLA.** ~6% del total del contrato, pago único, a cargo del inquilino. Sobre 2 años a US$ 2.500/mes (US$ 60.000 totales) → **~US$ 3.600 de una sola vez** (casi 1,5 meses de alquiler), además del depósito. Puede generar fricción si ella ya siente que "paga de más" — prepararlo como parte de la conversación, no como sorpresa.
 
@@ -52,7 +54,7 @@
 ## Preguntas / acciones pendientes con Franco
 - [ ] ¿Quién muestra el depto a interesados después del 25/08 (cuando ya no esté en el país)?
 - [ ] Confirmar fee: proponer **medio mes fijo** como honorarios, por escrito.
-- [ ] Confirmar: ¿el atraso de pago de Cinthia es de su contrato actual (piso 15) o un antecedente distinto? ¿Franco tiene más detalle?
+- [ ] El dato del atraso de pago es mío, de gente cercana — no confirmado formalmente. No hace falta pedirle a Franco más detalle sobre esto; su consejo (seguro de caución) aplica igual como estándar de precaución.
 - [ ] Decidir configuración para el listado público: ¿amoblado completo, parcial o vacío? (define qué fotos/precio publicar)
 - [ ] Dar luz verde para publicar ya con las fotos actuales, en paralelo a la negociación con Cinthia.
 
