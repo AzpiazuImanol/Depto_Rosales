@@ -12,6 +12,9 @@
 - **[04 · Inquilina candidata del propio edificio (piso 15)](docs/04-inquilina-en-el-edificio.md)** — prospecto directo, análisis de precio
 - **[05 · Proceso con Franco: riesgo Cinthia, publicación y honorarios](docs/05-proceso-franco-comercializacion.md)**
 
+### 📊 Planilla de seguimiento
+- **[Campaña de alquiler — planilla (.xlsx)](planilla/campana-alquiler-rosales-2620.xlsx)** — tracker multi-pestaña (números y ROI, negociación Cinthia, comparables, checklist, timeline, honorarios, contactos, documentación). Listo para **importar a Google Sheets** (`Archivo → Importar → Subir`). Las celdas en **azul** son inputs editables; el resto se recalcula solo.
+
 > 🟢 **Novedad clave (jul-2026):** el **Decreto 406/2026** exime de Ganancias al alquiler de **casa-habitación** (incluso amoblado) para personas humanas → si mamá alquila como **vivienda permanente**, su Ganancias sobre la renta ≈ 0, **sin necesidad de constituir usufructo**. NO aplica a alquiler temporario/turístico. Detalle en el doc 01.
 
 ---
