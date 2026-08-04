@@ -1,7 +1,6 @@
-# 04 · Inquilina candidata del propio edificio (piso 15)
+# 04 · Inquilina candidata del propio edificio (piso 15) — CERRADO, DESCARTADA
 
-> Oportunidad concreta y con timing casi perfecto. Prospecto directo, sin publicar.
-> **Estado: visita ya realizada (14-jul). En plan de re-contacto para negociar cierre.**
+> **Estado final (ago-2026): la vía Cinthia se descartó.** La brecha de precio (ella venía de pagar ~2.100–2.200 y esperaba algo en esa zona) no cerraba contra el objetivo, y con ~20 días hasta el vuelo la decisión es **salir a mercado abierto con Franco a US$ 2.650, priorizando velocidad + inquilino de calidad con verificaciones completas** (ver doc 05). Este documento queda como registro del análisis y la negociación.
 
 ## 🔴 Actualización 14-jul — resultado de la visita con Cinthia
 

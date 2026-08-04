@@ -51,13 +51,22 @@
 
 ---
 
-## Preguntas / acciones pendientes con Franco
-- [ ] ¿Quién muestra el depto a interesados después del 25/08 (cuando ya no esté en el país)?
-- [ ] Confirmar fee: proponer **medio mes fijo** como honorarios, por escrito.
-- [ ] El dato del atraso de pago es mío, de gente cercana — no confirmado formalmente. No hace falta pedirle a Franco más detalle sobre esto; su consejo (seguro de caución) aplica igual como estándar de precaución.
-- [ ] Decidir configuración para el listado público: ¿amoblado completo, parcial o vacío? (define qué fotos/precio publicar)
-- [ ] Dar luz verde para publicar ya con las fotos actuales, en paralelo a la negociación con Cinthia.
+## 🔴 Decisión (ago-2026): salir a mercado a US$ 2.650 — modo ejecución
 
-## Acción sobre Cinthia (se suma a lo ya definido en doc 04)
-- [ ] Incorporar al guion de negociación: pedir **seguro de caución** (no solo depósito), encuadrado como protección mutua, no desconfianza.
-- [ ] Anticipar y preparar cómo explicarle el costo del seguro (~6% del contrato, pago único, a su cargo).
+**Cinthia descartada** (ver doc 04). Con ~20 días hasta el vuelo (25/08), la prioridad es **colocar rápido con un inquilino de calidad y verificaciones completas**, no maximizar los últimos USD 100.
+
+**Por qué 2.650 está bien en modo velocidad:**
+- La cuenta de la vacancia manda: **1 mes vacío = US$ 2.650 perdidos; +US$ 100/mes de alquiler = US$ 2.400 en TODO el contrato de 2 años.** Si pedir más demora la colocación un solo mes, ya es pérdida neta.
+- All-in ≈ **3.100** (2.650 + ~450 expensas/ABL) → el más competitivo del complejo (los de 3.200 tienen all-in ~3.550). Es el manual del propio Franco: salir a valor junta las consultas que los demás no consiguen.
+- Objetivo financiero cubierto: 2.650 = US$ 31.800/año, **ROI 9,1–10,3%** (banda 310–350k), por encima de la meta de 2.500–2.800 en mano.
+
+**Condición a cambio de salir un escalón abajo: precio firme.** Publicado a 2.650 ya está bajo mercado → poca o nula negociación, **piso 2.550**. Lo que se cede en salida se compensa en rigidez. (Salir a 2.650 y encima regatear = cerrar en ~2.450–2.500, debajo del piso original.)
+
+## Checklist de ejecución (20 días)
+- [ ] **Publicar YA** con las fotos actuales; fotos pro / 360° se suman después sin frenar la salida.
+- [ ] **Precalificación estricta, sin excepciones:** informe de ingresos de todos los ocupantes · **seguro de caución preferido** (o garantía propietaria verificada con informe de dominio e inhibición) · depósito 2 meses · pago del 1 al 5.
+- [ ] **Pipeline de firma listo ANTES de que aparezca el interesado:** modelo de contrato (vivienda permanente, USD, ajuste anual, locadora = mamá), anexo de inventario, video de estado. Si el candidato aparece el día 12, se firma el día 18 — no se empieza a redactar ahí.
+- [ ] **Definir quién muestra el depto después del 25/08** (¿mamá? ¿hermana? ¿Franco fines de semana?). Lo más probable es que el cierre ocurra conmigo ya en Cambridge.
+- [ ] **Poder de administración ante escribano — URGENTE esta semana:** si el contrato se firma post-vuelo, alguien tiene que poder gestionar/firmar.
+- [ ] Confirmar fee con Franco: proponer **medio mes fijo** como honorarios, por escrito.
+- [ ] Decidir configuración del aviso: ¿amoblado completo o parcial? (define fotos y ficha del aviso).
