@@ -116,7 +116,9 @@ Puntos clave (verificados en fuentes, a confirmar con contador):
 
 ### Estado / próximos pasos
 - [x] **Decisión A vs B: elegida la A (donaciones), se descarta el usufructo.**
-- [ ] Confirmar con **contador**: exención 406/2026 aplicada al amoblado + ITGB sobre donaciones + IIBB.
+- [x] **Ratificado (ago-2026): firma mamá directamente como locadora.** No existe usufructo constituido (requeriría escritura, la que descartamos) → no hay opción de "firmar como usufructuario". Con 20 días para el vuelo, no se reabre.
+- ℹ️ **Dato nuevo:** mamá ya tributa Ganancias por **arrendamientos rurales (campos)**. Esto NO cambia la conclusión: la exención 406/2026 va atada al **tipo de ingreso** (alquiler de casa-habitación), no a la situación general del contribuyente — el alquiler del depto le suma cero de Ganancias aunque tribute por los campos. Los arrendamientos rurales siguen su propio régimen, aparte.
+- [ ] Confirmar con **contador**: (a) que la exención 406/2026 le aplica en su totalidad pese a tributar por los campos; (b) exención aplicada al amoblado; (c) **Ingresos Brutos PBA** por este alquiler; (d) ITGB sobre donaciones.
 - [ ] **Escribano:** ya no para usufructo, sí para los **pendientes de dominio** (titularidad cochera/baulera, reglamento, libre deuda) y, si hace falta, el **poder de administración** (ver doc 03).
 - [ ] Consulta con **asesor fiscal UK** sobre régimen FIG / tratamiento de los gifts.
 - [ ] Volcar acá las respuestas del contador.

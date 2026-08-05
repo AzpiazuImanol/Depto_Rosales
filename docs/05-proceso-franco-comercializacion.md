@@ -67,6 +67,7 @@
 - [ ] **Precalificación estricta, sin excepciones:** informe de ingresos de todos los ocupantes · **seguro de caución preferido** (o garantía propietaria verificada con informe de dominio e inhibición) · depósito 2 meses · pago del 1 al 5.
 - [ ] **Pipeline de firma listo ANTES de que aparezca el interesado:** modelo de contrato (vivienda permanente, USD, ajuste anual, locadora = mamá), anexo de inventario, video de estado. Si el candidato aparece el día 12, se firma el día 18 — no se empieza a redactar ahí.
 - [ ] **Definir quién muestra el depto después del 25/08** (¿mamá? ¿hermana? ¿Franco fines de semana?). Lo más probable es que el cierre ocurra conmigo ya en Cambridge.
-- [ ] **Poder de administración ante escribano — URGENTE esta semana:** si el contrato se firma post-vuelo, alguien tiene que poder gestionar/firmar.
+- [x] **Firma del contrato: CUBIERTA.** Firma **mamá directamente como locadora** — es la propietaria y **se queda en el país**, así que puede firmar en cualquier momento, esté yo donde esté. No hace falta poder para la firma. (Se descartó también la idea de firmar yo "como usufructuario": no hay usufructo constituido y no se va a constituir — ver doc 01.)
+- [ ] *(Opcional, no bloqueante)* **Poder de mamá a hermana/cuñada como backup** por si mamá no está disponible en una fecha puntual (viaje, salud) — deseable, pero ya no urgente: la firmante vive acá.
 - [ ] Confirmar fee con Franco: proponer **medio mes fijo** como honorarios, por escrito.
 - [ ] Decidir configuración del aviso: ¿amoblado completo o parcial? (define fotos y ficha del aviso).
