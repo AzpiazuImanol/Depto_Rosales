@@ -16,9 +16,27 @@ Estos son campos estructurados que Zonaprop usa para **filtrar**. Si están mal,
 
 ---
 
-## 🟠 Prioridad 2 — Dato desactualizado
+## 🟠 Prioridad 2 — Expensas desactualizadas (dato confirmado)
 
-**3. Expensas: figuran $613.000, que es la liquidación de abril.** Con la inflación acumulada abr→ago, hoy deben estar en el orden de **$660.000–680.000**. El aviso ya tiene la nota de "sujeto a verificación", así que no es un problema legal — pero conviene subir el número real para que el *all-in* que calcula el interesado sea el verdadero y no aparezca una sorpresa en la visita.
+**3. El aviso dice $613.000 (liquidación de abril). La real es $676.000.**
+
+Verificado sobre la liquidación de junio (corte 30/6/26), unidad **JACARANDA 53 · 14-J1 · Ibarguren Lila**:
+
+| Concepto | Monto |
+|---|---|
+| Gastos comunes (coef. 0,827%) | $446.887,48 |
+| Torre Jacarandá (coef. 1,645%) | $229.403,64 |
+| **Expensa del mes** | **$676.291,12** |
+| Saldo a favor mes anterior + redondeo | −$83,59 |
+| **TOTAL A PAGAR** | **$676.207,53** |
+
+→ Para el aviso: **$676.000**.
+
+⚠️ **Además, va a seguir subiendo.** El memo de la administración del 01/07/2026 avisa que "la expensa común ordinaria tiene un valor mayor a la evolución del IPC" por **pintura exterior con silletas en ambas torres** y **reparación del piso de las cocheras**. Presupuesto julio: $84.002.089. Conviene tenerlo presente al hablar del all-in con un interesado.
+
+**Impacto en el all-in:** las expensas pasan de ~US$ 405 a **~US$ 450** (a ~$1.500). El all-in del inquilino queda en **~US$ 3.150** (2.650 + 450 + ~45 de ABL), contra los ~US$ 3.550 de las unidades del complejo que piden 3.200. **La ventaja competitiva se mantiene.**
+
+> Nota: el número "663K" que circulaba es el **débito del mes anterior** (columna Débitos), ya cancelado — no la liquidación nueva. La administración suma los centavos del número de unidad a cada monto para identificar pagos (por eso todo termina en **,53**).
 
 ---
 
@@ -37,6 +55,8 @@ Ya está hablado que las actuales son provisorias por el formato vertical y que 
 **6. "Vista al Río" en el título.** Es cierto —se ve el río— pero es una vista parcial entre edificios. Si él prefiere sostenerlo por click-through, perfecto; solo tenerlo presente para que no genere expectativa en la visita.
 
 **7. Baulera:** aparece en el texto como "espacio de guardado", pero no está tageada como característica. Suma en un 4 ambientes familiar.
+
+**8. Las expensas siguen a nombre de Lila Ibarguren (abuela, fallecida).** No afecta al aviso, pero conviene actualizar el registro del consorcio al titular actual — sobre todo cuando el inquilino empiece a pagar expensas y por los pendientes de titularidad que ya estaban marcados.
 
 ---
 
