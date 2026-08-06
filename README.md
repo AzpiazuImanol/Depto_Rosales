@@ -3,16 +3,20 @@
 > Documento de trabajo vivo. Se actualiza a medida que avanzamos.
 > Objetivo: poner en alquiler el departamento para financiar el costo de vida durante el MBA en Cambridge, sin tocar ahorros.
 
-**Última actualización:** 11-jul-2026
+**Última actualización:** ago-2026
 
 ### 📂 Documentos de trabajo
 - **[01 · Usufructo, impuestos y cómo llega la plata al hijo](docs/01-usufructo-impuestos.md)**
 - **[02 · Contrato de alquiler amoblado + inventario](docs/02-contrato-inventario.md)**
 - **[03 · Administración del depto a distancia](docs/03-administracion-a-distancia.md)**
 - **[04 · Inquilina candidata del propio edificio (piso 15)](docs/04-inquilina-en-el-edificio.md)** — ❌ descartada; queda como registro
-- **[05 · Proceso con Franco: publicación y honorarios](docs/05-proceso-franco-comercializacion.md)** — 🔴 **plan vigente: publicar a US$ 2.650, precio firme, ejecución en 20 días**
+- **[05 · Proceso con Franco: publicación y honorarios](docs/05-proceso-franco-comercializacion.md)** — precio 2.650, precio firme
+- **[06 · Revisión del aviso Zonaprop](docs/06-revision-aviso-zonaprop.md)** — 8 items para corregir ([PDF](informe-familia/Revision-Aviso-Rosales.pdf))
+- **[07 · Nuevo escenario: baja de publicación + candidato futbolista](docs/07-futbolista-y-cambio-de-escenario.md)** — 🔴 **DECISIÓN PENDIENTE**
 
-> 🟢 **Novedad clave (jul-2026):** el **Decreto 406/2026** exime de Ganancias al alquiler de **casa-habitación** (incluso amoblado) para personas humanas → si mamá alquila como **vivienda permanente**, su Ganancias sobre la renta ≈ 0, **sin necesidad de constituir usufructo**. NO aplica a alquiler temporario/turístico. Detalle en el doc 01.
+> 🟢 **Decreto 406/2026:** exime de Ganancias al alquiler de **casa-habitación** (incluso amoblado) para personas humanas → si mamá alquila como **vivienda permanente**, su Ganancias sobre la renta ≈ 0, **sin necesidad de constituir usufructo**. NO aplica a alquiler temporario/turístico. Detalle en el doc 01.
+>
+> 🔴 **Alerta abierta (ago-2026):** el candidato de 4 meses (futbolista) **puede caer del lado "temporario" y romper esa exención**. Es el bloqueante a resolver con el contador antes de confirmar. Ver doc 07.
 
 ---
 
