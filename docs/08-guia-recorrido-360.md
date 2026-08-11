@@ -43,11 +43,18 @@ La cámara resuelve la técnica; lo que arruina un recorrido es el desorden. En 
 | **PureShot + RAW/DNG** | ON *(si es X5)* | Más margen para corregir después |
 | **ISO** | El más bajo (100) | Está en trípode, no importa que la exposición sea lenta |
 | **Balance de blancos** | **FIJO** (~4000-5000K) | ⚠️ El más importante y el que todos olvidan. En automático cada ambiente sale de otro color y el recorrido queda inconsistente |
-| **Temporizador** | 5 segundos | Tiempo para salir de cuadro |
-| **Altura** | **~150-160 cm** (altura de ojos) | Es la altura natural de recorrido; más bajo o más alto se siente raro |
-| **Soporte** | Monopié/palo fino, no trípode ancho | Cuanto más fino, más fácil borrarlo abajo |
+| **Temporizador** | ❌ **NO usar** | ⚠️ En la X4 **el temporizador y HDR son excluyentes**: o uno o el otro. Y HDR importa más |
+| **Disparo** | **Desde la app del celular** | Es lo que reemplaza al temporizador y permite mantener HDR |
+| **Altura** | Lo más cerca de 150 cm que se pueda | Ver abajo |
+| **Soporte** | Trípode chico **apoyado sobre un mueble** | El trípode de Insta360 mide ~20 cm: solo no llega. Banco, mesa, cómoda o mesada |
 
-**Para esconderte:** activá el temporizador y salí del ambiente (atrás de una puerta, en el pasillo). Si no llegás, quedate **justo debajo de la cámara** y pegado al palo — es la zona que después se borra. Alternativa mejor: disparar desde el celular con la app.
+### ⚠️ Lo que salió mal la primera vez (11-ago) y cómo evitarlo
+
+1. **Salí yo en las 25 fotos.** Con temporizador de 5 s no se llega a salir, y en 360 no existe el "detrás de cámara". **Solución: disparar desde la app, parado en OTRO ambiente** (pasillo, cuarto de al lado). Para el living-comedor, que es un ambiente único, meterse en la cocina o el pasillo.
+2. **El trípode es de 20 cm**, no se puede apoyar en el piso e irse. **Solución: sobre un banco o mueble** — quedan 95-120 cm. Un poco bajo, pero muy preferible a aparecer en la foto.
+3. **Mantener la MISMA altura en todos los ambientes** — es lo que hace que el recorrido se sienta continuo. Elegir un mueble de altura parecida en cada ambiente.
+4. **Los baños salieron naranjas** por el balance de blancos automático con luz incandescente. Si HDR deja tocar el WB, fijarlo; si no, se corrige después en Kuula con el filtro COOLER.
+5. **Sacar 2 tomas por posición, moviéndose de lugar entre una y otra.** Si algo sale mal, se pueden combinar las dos en Photoshop para borrar a la persona.
 
 ---
 
@@ -103,6 +110,18 @@ La cámara resuelve la técnica; lo que arruina un recorrido es el desorden. En 
 - **CloudPano** o **Panoee** — más features, de pago.
 - Te queda un **link único** para pegar en el aviso, mandar por WhatsApp a interesados, o embeber donde quieras.
 
+### Kuula: lo aprendido a los golpes
+
+- 🔴 **GUARDAR (POST) apenas cargás algo y seguido.** Se perdió media hora de trabajo por no guardar antes de editar.
+- **Hay dos editores distintos:** el del *tour* (Posts / Tour settings / Menu / Metadata) y el de *cada panorámica* (se abre con la lapicera ✏️ sobre la miniatura). El color, el título y los hotspots están en el segundo.
+- **El ícono ⧉** al lado de HDR Tone Mapping, Sharpness, Filters, Zoom, Pitch limit y Level correction **copia ese ajuste al resto de las panos.** Configurar una vez y replicar.
+- **Ajustes globales que conviene poner:** HDR Tone Mapping **25-30 %**, Sharpness **20-25 %**, Pitch limit **~75°** (así no se puede mirar al piso y no se ve el trípode).
+- **Filtro COOLER** al 40-50 % solo en los ambientes que salieron cálidos (baños).
+- **NO existe límite de giro horizontal.** Vertical sí (Pitch limit), horizontal no: los 360° son un círculo cerrado, no tiene borde donde frenar. La única forma es recortar la panorámica y declararla *parcial* → ver `scripts/360_a_parcial.py`.
+- **Unlisted es PRO (pago).** Gratis: dejar **desmarcadas** "Make location public" y "Make photo data public", y no cargar el número de unidad en Metadata.
+- **Walkthrough Mode pisa el Heading.** Si está activado, no vale la pena configurar el heading de las 25 — solo de las principales.
+- **Para reemplazar una imagen sin perder el trabajo:** botón **Replace** dentro del editor de la panorámica (conserva hotspots y ajustes). Nunca borrar y volver a subir.
+
 ---
 
 ## 6. Tutoriales
@@ -118,11 +137,16 @@ La cámara resuelve la técnica; lo que arruina un recorrido es el desorden. En 
 ---
 
 ## Checklist rápido para el día
-- [ ] Confirmar **qué modelo** es (X3 / X4 / X5) — cambia si hay PureShot
-- [ ] Batería cargada + tarjeta con espacio (72 MP + RAW pesa)
-- [ ] Depto acomodado según §1
+> Cámara confirmada: **Insta360 X4** (sin PureShot; eso es de la X5).
+
+- [ ] Batería cargada + tarjeta con espacio
+- [ ] **Celular con la app Insta360 conectada** — es el disparador, no el temporizador
+- [ ] Un **banco o mueble** para apoyar el trípode en cada ambiente, de altura pareja
+- [ ] Depto acomodado según §1 (si el fotógrafo lo dejó puesto, aprovechar antes de que se mueva)
 - [ ] Luces prendidas, puertas abiertas, ventiladores apagados
-- [ ] Balance de blancos FIJO
+- [ ] Foto · 72 MP · **HDR ON** · **sin temporizador**
+- [ ] Balance de blancos fijo si el modo lo permite
 - [ ] Disparar a la tarde (orientación SE)
-- [ ] 13 posiciones + amenities
-- [ ] 2 tomas por posición
+- [ ] ~30 posiciones + amenities
+- [ ] **2 tomas por posición, moviéndose entre una y otra**
+- [ ] Salir del ambiente en cada disparo
