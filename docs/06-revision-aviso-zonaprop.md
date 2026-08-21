@@ -91,8 +91,25 @@ Etiquetas que estaban en el aviso anterior y se perdieron:
 - **"Muy luminoso"** y **"Frente"** en la ficha de iconos.
 - **Baulera** sigue sin taggear (solo "espacio de guardado" en el texto).
 
-## 🔴 A confirmar: quién es "Full Host"
-El anunciante no es "dueño directo" sino una cuenta de agencia (la sección dice *"Preguntas para la inmobiliaria"*). **Verificar que esté matriculado en Provincia de Buenos Aires** — si no, se repite el problema por el que hubo que bajar el aviso anterior.
+## ✅ "Full Host" — resuelto
+Se publica a través de un colega de Franco **matriculado en Provincia**, sin costo, operado por Franco. No se repite el problema del aviso anterior.
+
+## Sobre las expensas de julio
+No hay liquidación de julio disponible. El memo de la administración del 01/07 da el **presupuesto de julio: $84.002.089** vs. **$84.248.535** de gasto real de junio → **–0,3 %**, prácticamente igual. Aplicado a la unidad da **≈ $674.000**.
+→ **$676.000 sigue siendo el número correcto para el aviso**; la diferencia es de redondeo.
 
 ## Pendiente de sumar
 - **Link del tour 360** en la descripción, cuando se active Kuula PRO. (En plan gratis los hotspots no son visibles para terceros — ver doc 08.)
+
+---
+
+## 📋 Lista para Franco (ajustes al aviso)
+
+1. **Cochera** — figura *"Descubierta"*, va **Cubierta**. El texto del aviso dice "cochera cubierta propia de 17,06 m²" → se contradice. Filtro de búsqueda, el de mayor impacto.
+2. **Expensas** — figuran **$613.000**, van **$676.000**. En dos lugares: el campo de arriba y la última línea de la descripción.
+3. **Volver a tildar en Características** (se perdieron en la recarga): **Amoblado** y **Calefacción**.
+4. **Volver a tildar**: **Muy luminoso** y **Frente**.
+5. **Sumar Baulera** — está en el texto como "espacio de guardado" pero no tageada.
+6. **Link del tour 360** en la descripción, cuando esté andando.
+
+Lo demás queda como está: título, descripción, fotos y condiciones.
