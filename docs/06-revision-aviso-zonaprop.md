@@ -94,9 +94,42 @@ Etiquetas que estaban en el aviso anterior y se perdieron:
 ## ✅ "Full Host" — resuelto
 Se publica a través de un colega de Franco **matriculado en Provincia**, sin costo, operado por Franco. No se repite el problema del aviso anterior.
 
-## Sobre las expensas de julio
-No hay liquidación de julio disponible. El memo de la administración del 01/07 da el **presupuesto de julio: $84.002.089** vs. **$84.248.535** de gasto real de junio → **–0,3 %**, prácticamente igual. Aplicado a la unidad da **≈ $674.000**.
-→ **$676.000 sigue siendo el número correcto para el aviso**; la diferencia es de redondeo.
+## 🔴 Expensas de JULIO — dato real (corrige la estimación previa)
+
+> ⚠️ **Corrección:** se había estimado ≈$674.000 extrapolando desde el presupuesto de julio. **El número real vino 6% más arriba.** No usar estimaciones de presupuesto para esto.
+
+Liquidación de julio (corte 29/7/26), unidad **JACARANDA 53 · 14-J1 · Ibarguren Lila**:
+
+| Concepto | Monto |
+|---|---|
+| Expensa Gastos Comunes (coef. 0,827%) | $473.700,73 |
+| Expensa Jacarandá (coef. 1,645%) | $243.167,86 |
+| **Expensa del mes** | **$716.868,59** |
+| Saldo a favor mes anterior | −$792,47 |
+| Ajuste centavos | +$0,41 |
+| **TOTAL A PAGAR** | **$716.076,53** |
+
+**Junio $676.291 → Julio $716.869 = +6,0 %** en un mes, todo expensa ordinaria (sin cuota extraordinaria).
+
+**→ Para el aviso: $716.000.**
+
+### Agosto sube otra vez
+Memo del 31/07: **presupuesto de agosto $85.468.617** vs. $84.002.089 de julio → **+1,7 %**. El rubro que más empuja es Personal (16,2 → 18,1 M, +11,7 %). Se repite la advertencia de que la expensa ordinaria sube **por encima del IPC** por pintura exterior con silletas y reparación del piso de cocheras.
+Estimación agosto ≈ **$730.000** — tomarlo como piso, no como techo.
+
+### All-in actualizado
+| | |
+|---|---|
+| Alquiler | USD 2.650 |
+| Expensas (716.869 ÷ ~1.500) | ~USD 478 |
+| ABL | ~USD 45 |
+| **All-in** | **~USD 3.175** |
+
+Sigue muy por debajo de los ~USD 3.550 de las unidades del complejo que piden 3.200 → **no hay que mover el precio**. Pero la tendencia importa: las expensas pasaron de USD 405 a USD 478 en dos meses y erosionan la ventaja del all-in.
+
+### Otros datos de la liquidación de julio
+- **Certificado de libre deuda de expensas: $35.500**, se carga como gasto particular de la unidad. Probablemente haga falta al firmar.
+- La unidad **no figura en ninguna lista de morosos** — está al día.
 
 ## Pendiente de sumar
 - **Link del tour 360** en la descripción, cuando se active Kuula PRO. (En plan gratis los hotspots no son visibles para terceros — ver doc 08.)
@@ -106,7 +139,7 @@ No hay liquidación de julio disponible. El memo de la administración del 01/07
 ## 📋 Lista para Franco (ajustes al aviso)
 
 1. **Cochera** — figura *"Descubierta"*, va **Cubierta**. El texto del aviso dice "cochera cubierta propia de 17,06 m²" → se contradice. Filtro de búsqueda, el de mayor impacto.
-2. **Expensas** — figuran **$613.000**, van **$676.000**. En dos lugares: el campo de arriba y la última línea de la descripción.
+2. **Expensas** — figuran **$613.000**, van **$716.000** (liquidación de julio). En dos lugares: el campo de arriba y la última línea de la descripción.
 3. **Volver a tildar en Características** (se perdieron en la recarga): **Amoblado** y **Calefacción**.
 4. **Volver a tildar**: **Muy luminoso** y **Frente**.
 5. **Sumar Baulera** — está en el texto como "espacio de guardado" pero no tageada.
