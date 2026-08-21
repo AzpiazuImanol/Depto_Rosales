@@ -65,3 +65,34 @@ Ya está hablado que las actuales son provisorias por el formato vertical y que 
 - Condiciones: contrato 2-3 años, seguro de caución o garantía propietaria, inventario con fotos anexo al contrato.
 - Servicios a cargo del inquilino (ABL, luz, gas, agua, internet) — bien explicitado.
 - Amenities, antigüedad (25 años), orientación SE, "muy luminoso", frente.
+
+---
+
+# 🔄 Segunda revisión — aviso republicado (cód. 59943244)
+
+> El aviso anterior (59792022, BAIGÚN RyN) se dio de baja por el tema de matrícula.
+> Republicado con **28 fotos profesionales**, anunciante **Full Host** (cód. FAP8685315).
+
+## ✅ Corregido respecto de la primera revisión
+- **CUCICBA Nº 2996 eliminado** de la descripción.
+- **Baños: ya es consistente.** Se resolvió cambiando el texto a "dos baños y toilette" (en vez de subir el campo a 3). Ficha y descripción coinciden → objetivo cumplido.
+- **Foto de portada** ya no es un dormitorio.
+- Fotos profesionales cargadas (28).
+- Se agregó **"Comedor"** a Ambientes y se menciona la **red de protección** del balcón.
+
+## ❌ Sigue pendiente (mayor impacto)
+1. **Cobertura cochera: "Descubierta"** — el texto dice "cochera **cubierta** propia de 17,06 m²". Sigue contradiciéndose y sigue siendo **filtro de búsqueda**. Es el arreglo más rentable.
+2. **Expensas: $613.000** en el campo Y en el texto. Van **$676.000** (liquidación de junio verificada).
+
+## ⚠️ Regresiones de la recarga
+Etiquetas que estaban en el aviso anterior y se perdieron:
+- **"Amoblado"** en *Características* ← la más costosa: es filtro y es el diferencial. Conviene mantenerla aunque se entregue "parte del mobiliario" (la descripción ya aclara el alcance).
+- **"Calefacción"** en *Características*.
+- **"Muy luminoso"** y **"Frente"** en la ficha de iconos.
+- **Baulera** sigue sin taggear (solo "espacio de guardado" en el texto).
+
+## 🔴 A confirmar: quién es "Full Host"
+El anunciante no es "dueño directo" sino una cuenta de agencia (la sección dice *"Preguntas para la inmobiliaria"*). **Verificar que esté matriculado en Provincia de Buenos Aires** — si no, se repite el problema por el que hubo que bajar el aviso anterior.
+
+## Pendiente de sumar
+- **Link del tour 360** en la descripción, cuando se active Kuula PRO. (En plan gratis los hotspots no son visibles para terceros — ver doc 08.)
