@@ -80,21 +80,20 @@ Ya está hablado que las actuales son provisorias por el formato vertical y que 
 - Fotos profesionales cargadas (28).
 - Se agregó **"Comedor"** a Ambientes y se menciona la **red de protección** del balcón.
 
-## ❌ Sigue pendiente (mayor impacto)
-1. **Cobertura cochera: "Descubierta"** — el texto dice "cochera **cubierta** propia de 17,06 m²". Sigue contradiciéndose y sigue siendo **filtro de búsqueda**. Es el arreglo más rentable.
-2. **Expensas: $613.000** en el campo Y en el texto. Van **$676.000** (liquidación de junio verificada).
+## ✅ Ajustes del aviso — cerrados
+Los puntos de esta revisión se resolvieron. Quedan documentados como registro:
+- **Cobertura cochera** → Cubierta.
+- **Expensas** → actualizadas (ver el dato de julio más abajo).
+- **Etiquetas recuperadas** tras la recarga: *Amoblado*, *Calefacción*, *Muy luminoso*, *Frente*.
+- **Baulera:** se decide **NO** promocionarla. Está semi ocupada y no se va a vaciar antes del viaje. Se maneja por contrato, no por el aviso → ver abajo.
 
-## ⚠️ Regresiones de la recarga
-Etiquetas que estaban en el aviso anterior y se perdieron:
-- **"Amoblado"** en *Características* ← la más costosa: es filtro y es el diferencial. Conviene mantenerla aunque se entregue "parte del mobiliario" (la descripción ya aclara el alcance).
-- **"Calefacción"** en *Características*.
-- **"Muy luminoso"** y **"Frente"** en la ficha de iconos.
-- **Baulera** sigue sin taggear (solo "espacio de guardado" en el texto).
+## 📌 Baulera — decisión
+No se publicita como amenity. En el contrato conviene **excluir el espacio de guardado de la locación** (la locación comprende el departamento y la cochera; el espacio de guardado queda reservado para uso del propietario). Así no hay que vaciarla, la familia no hereda el trabajo, y queda depósito disponible en Buenos Aires durante el MBA. Pasárselo a Franco para que lo contemple al redactar.
 
 ## ✅ "Full Host" — resuelto
 Se publica a través de un colega de Franco **matriculado en Provincia**, sin costo, operado por Franco. No se repite el problema del aviso anterior.
 
-## 🔴 Expensas de JULIO — dato real (corrige la estimación previa)
+## 📊 Expensas de JULIO — dato real (corrige la estimación previa)
 
 > ⚠️ **Corrección:** se había estimado ≈$674.000 extrapolando desde el presupuesto de julio. **El número real vino 6% más arriba.** No usar estimaciones de presupuesto para esto.
 
