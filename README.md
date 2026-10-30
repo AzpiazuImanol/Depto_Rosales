@@ -14,6 +14,18 @@
 - **[06 · Revisión del aviso Zonaprop](docs/06-revision-aviso-zonaprop.md)** — 8 items para corregir ([PDF](informe-familia/Revision-Aviso-Rosales.pdf))
 - **[07 · Nuevo escenario: baja de publicación + candidato futbolista](docs/07-futbolista-y-cambio-de-escenario.md)** — 🔴 **DECISIÓN PENDIENTE**
 
+### 🔗 Enlaces del depto
+
+| Qué | Link |
+|---|---|
+| **Recorrido virtual 360** (el bueno, hecho por Franco) | https://tour.gringo.estate/rosales-2620-1401/ |
+| Landing de la propiedad (Gringo Estate) | https://artifacts.gringo.estate/alquiler-rosales-2620-olivos/ |
+| Aviso Zonaprop (cód. 59943244) | https://www.zonaprop.com.ar/propiedades/clasificado/alclapin-departamento-4-ambientes-con-vista-al-rio-en-olivos-59943244.html |
+| Tasación de **alquiler** (Franco) | https://drive.google.com/file/d/1yfsm-SaSdE7_MiUy8SNwO8ylIR_fypjz/view |
+| Tasación de **venta** (Franco) | https://drive.google.com/file/d/1eLB8gZOwqqAIsVCll3eyhxsyZY3pnvvA/view |
+| ZIP de 44 fotos profesionales | https://drive.google.com/file/d/1x6GhdFAXjS5XTJo0NUt7JbR5CX6y4ciy/view |
+| Carpeta raíz en Drive | https://drive.google.com/drive/folders/1xfoJ-86C1WYovLbDmMrPccGFKO31ZGi1 |
+
 > 🟢 **Decreto 406/2026:** exime de Ganancias al alquiler de **casa-habitación** (incluso amoblado) para personas humanas → si mamá alquila como **vivienda permanente**, su Ganancias sobre la renta ≈ 0, **sin necesidad de constituir usufructo**. NO aplica a alquiler temporario/turístico. Detalle en el doc 01.
 >
 > 🔴 **Alerta abierta (ago-2026):** el candidato de 4 meses (futbolista) **puede caer del lado "temporario" y romper esa exención**. Es el bloqueante a resolver con el contador antes de confirmar. Ver doc 07.
